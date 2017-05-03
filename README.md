@@ -1,5 +1,5 @@
 # NETATTACK 2
-Netattack is a python script that scans and attacks local and wireless networks. 
+NETATTACK 2 is a python script that scans and attacks local and wireless networks. 
 Everything is super easy because of the GUI that makes it unnecessary to remember commands and parameters.
 
 ## FUNCTIONS
