@@ -19,7 +19,7 @@ Everything is super easy because of the GUI that makes it unnecessary to remembe
 
 LINUX!
 
-- nmap
+- python-nmap (Python)
 - argparse (Python)
 - scapy (Python)
 - iw
